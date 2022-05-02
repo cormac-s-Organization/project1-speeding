@@ -1,6 +1,3 @@
-#Cormac Wilson
-#110603274
-#12 02 22
 #Project 1 - Speeding
 
 def readExistingCarData():
